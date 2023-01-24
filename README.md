@@ -15,6 +15,8 @@ python -m pip install --upgrade pip
 ```bash
 pip install -r requirements.txt
 ```
+Завести сервисный аккаунт на Google Cloud.
+Дать сервисному аккаунту доступ к нужной таблице.
 
 Наполнить .env по примеру .env_example.
 
